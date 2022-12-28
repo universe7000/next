@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-import { Footer } from '../Footer'
+import Footer from '../Footer'
 
 export default function Page() {
     return (
